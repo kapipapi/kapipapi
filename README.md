@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+💪 Currently working in Airotec company on computer vision project in Avionics.
+
+🙌🏼 Looking to collaborate on any Machine Learning Project
+
+- 🎓 Master's Degree in Biomedical Engineering
+- 🎓 Bachelor's Degree in Applied Physics
+
+📫 Contact me: kacper.led🙈gmail.com
+
 <!--
 **kapipapi/kapipapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
